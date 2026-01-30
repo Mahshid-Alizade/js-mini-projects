@@ -5,25 +5,6 @@ The app focuses on clean UI design and core JavaScript timing functions such as 
 
 ---
 
-## 🚀 Features
-
-- User-friendly interface
-- Dynamic countdown functionality
-- Visual feedback at each stage
-- Audio notification when the timer ends
-
----
-
-## 🛠️ Technologies Used
-
-- HTML – Structure of the application  
-- CSS – Styling and layout of the UI  
-- JavaScript – Timer logic and interactions  
-  - setInterval()
-  - clearInterval()
-
----
-
 ## 📋 How the App Works (Step-by-Step)
 
 ### 1️⃣ Welcome Screen
